@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=depre33edboy&label=Profile%20views&color=0e75b6&style=flat" alt="depre33edboy" /> </p>
 
+- 🔭 I’m currently working on [Bot Strawberry (TG and VK)](vk.me/strawberrybot)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
