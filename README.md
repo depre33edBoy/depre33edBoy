@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=depre33edboy&label=Profile%20views&color=0e75b6&style=flat" alt="depre33edboy" /> </p>
 
-- 🔭 Активно работаю над [Bot Strawberry (TG and VK)](https://vk.me/strawberrybot)
+- 🔭 Активно работаю над [Bot Strawberry (TG and VK)](https://vk.com/strawberrybot)
 
 - 💳 Мой персональный сайт-визитка с моими контактными даннными: [depre33ed-boy.info](https://depre33ed-boy.info)
 
