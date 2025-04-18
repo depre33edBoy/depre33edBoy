@@ -10,19 +10,6 @@
 - 💳 Мой персональный сайт‑визитка с моими контактными данными: [depre33ed-boy.space](https://depre33ed-boy.space)
 - 📫 По деловым предложениям: **business@depre33ed-boy.space**
 
-<a href="https://vk.com/depre33ed_boy"
-   style="
-     display: inline-block;
-     background-color: #1E90FF;
-     color: #ffffff;
-     padding: 10px 20px;
-     text-decoration: none;
-     border-radius: 5px;
-     font-weight: bold;
-   ">
-  📰 Подписаться на новости
-</a>
-
 <h3 align="left">Языки и Инструменты, которые я использую:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
